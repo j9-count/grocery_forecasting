@@ -1,0 +1,29 @@
+[
+  {
+    "store_nbr": 51,
+    "family": "GROCERY I",
+    "model_path": "models/lgb_store51_GROCERY I.pkl",
+    "config_path": "models/config_store51_GROCERY I.json",
+    "forecast_path": "forecasts/forecast_store51_GROCERY I.csv",
+    "mean_forecast": 9081.230792635099,
+    "total_forecast": 817310.7713371589
+  },
+  {
+    "store_nbr": 24,
+    "family": "GROCERY I",
+    "model_path": "models/lgb_store24_GROCERY I.pkl",
+    "config_path": "models/config_store24_GROCERY I.json",
+    "forecast_path": "forecasts/forecast_store24_GROCERY I.csv",
+    "mean_forecast": 5592.116201854548,
+    "total_forecast": 503290.45816690935
+  },
+  {
+    "store_nbr": 34,
+    "family": "GROCERY I",
+    "model_path": "models/lgb_store34_GROCERY I.pkl",
+    "config_path": "models/config_store34_GROCERY I.json",
+    "forecast_path": "forecasts/forecast_store34_GROCERY I.csv",
+    "mean_forecast": 6295.761733167514,
+    "total_forecast": 566618.5559850762
+  }
+]
