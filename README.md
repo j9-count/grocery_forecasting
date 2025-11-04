@@ -94,7 +94,11 @@ grocery_forecasting1/
 ├── app.py                    # Main Streamlit application
 ├── requirements.txt          # Python dependencies
 ├── README.md                 # This file
-├── .gitignore               # Git ignore rules
+├── screenshots/
+|   ├── dashboard.png
+│   ├── forecast_chart.png
+│   ├── statistics.png
+│   └── data_table.png               
 │
 ├── data/                    # Data files (forecasts & configs)
 │   ├── model_registry.json  # Model metadata
