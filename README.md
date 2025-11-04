@@ -54,39 +54,8 @@ Interactive forecasting application for Guayaquil stores, deployed on Streamlit 
 **Live App:** Deployed at [share.streamlit.io](https://share.streamlit.io)
 
 
-
 ---
 
-## 💻 Local Development
-
-Want to run this app locally? Follow these steps:
-
-### Prerequisites
-- Python 3.10 or higher
-- pip package manager
-
-### Installation
-
-1. **Clone the repository:**
-```bash
-git clone https://github.com/YOUR-USERNAME/grocery_forecasting1.git
-cd grocery_forecasting1
-```
-
-2. **Install dependencies:**
-```bash
-pip install -r requirements.txt
-```
-
-3. **Run the app:**
-```bash
-streamlit run app.py
-```
-
-4. **Open browser:**
-Navigate to http://localhost:8501
-
----
 
 ##  Project Structure
 ```
@@ -169,26 +138,6 @@ Click the "Download Forecast CSV" button to export data
 
 ---
 
-##  Updates & Maintenance
-
-### Automated Deployment
-- Any push to `main` branch triggers automatic redeployment
-- Streamlit Cloud rebuilds the app (~2-3 minutes)
-
-### Manual Updates
-1. Make changes locally
-2. Commit and push to GitHub
-3. Streamlit Cloud auto-deploys
-
-### Model Updates
-To update forecasts with new data:
-1. Retrain models with updated data
-2. Generate new forecasts
-3. Replace files in `data/` folder
-4. Push to GitHub
-
----
-
 ##  Known Limitations
 
 - **Forecast Period**: Currently limited to Jan-Mar 2014
@@ -211,17 +160,6 @@ This is a demonstration project for a time series forecasting system.
 
 ---
 
-##  Support & Contact
-
-**Issues?** 
-- Check the [GitHub Issues](https://github.com/YOUR-USERNAME/grocery_forecasting1/issues)
-- Review Streamlit Cloud logs (Manage App → Logs)
-
-**Questions?**
-- Email: your.email@example.com
-- GitHub: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
-
----
 
 ##  License
 
