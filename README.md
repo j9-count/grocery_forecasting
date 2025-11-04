@@ -119,7 +119,7 @@ grocery_forecasting1/
 Choose from available Guayaquil stores (Store 24, 34, 51)
 
 ### 2. Select Product Family
-Pick a product category (GROCERY, BEVERAGES, CLEANING, etc.)
+Pick the product category (GROCERY 1)
 
 ### 3. Set Forecast Horizon
 Use the slider to select how many days to forecast (7-90 days)
