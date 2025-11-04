@@ -1,4 +1,4 @@
- """# Grocery Sales Forecasting - Streamlit App
+# Grocery Sales Forecasting - Streamlit App
 
 ##  Corporación Favorita Sales Forecasting
 
